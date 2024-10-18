@@ -70,13 +70,20 @@ The Traffic Sign Board Recognition and Voice Alert System is designed to improve
 
 ## User Login Page
 
-![Alt text](URL)
-![Alt text](URL)
-![Alt text](URL)
-![Alt text](URL)
-![Alt text](URL)
-![Alt text](URL)
-![Alt text](URL)
+![Traffic-sign Login page](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Loginpage.png)
+## Successfull Login
+![Traffic-sign Loginpage success](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/success0-18%20154747.png)
+
+## Images are uploaded here
+![Traffic-sign Upload Here](URL)
+## Home Page
+![Traffic-sign HomePage](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Homepage%20154804.png)
+## performance Aanalysis
+![Traffic-sign prediction](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Analysis-18%20155808.png)
+
+## Accuracy Chart
+![Traffic-sign Accuracy chart](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/chart.png)
+
 
 
 
