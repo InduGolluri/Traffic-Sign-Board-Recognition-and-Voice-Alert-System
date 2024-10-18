@@ -45,6 +45,8 @@ The Traffic Sign Board Recognition and Voice Alert System is designed to improve
   # My Project
 
 ![Project Screenshot](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Screenshot%202024-10-18%20133007.png)
+
+
 ### Features of the Project
 
 - **Real-Time Traffic Sign Recognition**: Captures live video to detect and recognize traffic signs.
@@ -70,19 +72,51 @@ The Traffic Sign Board Recognition and Voice Alert System is designed to improve
 
 ## User Login Page
 
+
 ![Traffic-sign Login page](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Loginpage.png)
+
+
 ## Successfull Login
+
+
 ![Traffic-sign Loginpage success](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/success0-18%20154747.png)
 
-## Images are uploaded here
-![Traffic-sign Upload Here](URL)
+
 ## Home Page
+
+
 ![Traffic-sign HomePage](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Homepage%20154804.png)
+
+
 ## performance Aanalysis
+
+
 ![Traffic-sign prediction](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Analysis-18%20155808.png)
 
+
 ## Accuracy Chart
+
+
 ![Traffic-sign Accuracy chart](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/chart.png)
+
+
+## Future Scope
+
+
+1. **Inbuilt Alert System**: 
+   - Integrate a centrally mounted camera in the vehicle for real-time monitoring.
+
+2. **Estimated Time Calculation**: 
+   - Provide estimates for the time to reach specific traffic signs.
+
+3. **Traffic Signal Identification**: 
+   - Identify traffic signals and notify users about their status.
+
+4. **Trip Planning Assistance**: 
+   - Help drivers plan their trips to minimize waiting at signals.
+
+5. **Driver Verification**: 
+   - Implement an API for verifying driver information, including license holder details and license number.
 
 
 
