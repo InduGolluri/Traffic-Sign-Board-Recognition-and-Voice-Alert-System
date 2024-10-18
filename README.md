@@ -44,6 +44,39 @@ The Traffic Sign Board Recognition and Voice Alert System is designed to improve
 
   # My Project
 
-![Project Screenshot](https://raw.githubusercontent.com/username/repository/branch/image.png)
+![Project Screenshot](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Screenshot%202024-10-18%20133007.png)
+### Features of the Project
+
+- **Real-Time Traffic Sign Recognition**: Captures live video to detect and recognize traffic signs.
+- **Voice Alert System**: Provides audio notifications for recognized signs using TTS technology.
+- **High Accuracy**: Utilizes advanced machine learning models for effective sign classification.
+- **User-Friendly Interface**: Optional GUI displays recognized signs and alerts with status indicators.
+- **Image Processing Techniques**: Enhances image quality and detects signs using computer vision methods.
+- **Customizable Settings**: Allows users to adjust sensitivity and prioritize specific signs.
+- **Safety Enhancement**: Increases driver awareness of road conditions to help prevent accidents.
+- **Scalability**: Adapts to recognize various traffic signs for different regions and future features.
+
+### Technologies Used
+
+- **Programming Languages**: Python for application development.  
+- **Computer Vision Libraries**: OpenCV for image processing and traffic sign detection.  
+- **Machine Learning Frameworks**: TensorFlow or Keras for building deep learning models.  
+- **Text-to-Speech Technology**: pyttsx3 for generating voice alerts.  
+- **Data Handling**: NumPy and Pandas for data manipulation.  
+- **User Interface Frameworks**: Tkinter for creating a simple GUI (if applicable).  
+- **Hardware**: Camera (webcam or smartphone) for real-time video capture.
+
+# Screenshots of the Project
+
+## User Login Page
+
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
+![Alt text](URL)
+
 
 
