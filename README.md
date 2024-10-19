@@ -1,6 +1,14 @@
 # Traffic-Sign-Board-Recognition-and-Voice-Alert-System
 
-##### Hey , Hello Everyone
+Hey there! I’m Hindhu, your final-year BTech friend! 🎓✨ Welcome to GitHub, where we can play, learn, and collaborate on exciting projects together. Let’s explore the world of coding and innovation!
+
+## Live Website 
+- **Live Website Link:**[Traffic-sign](http://127.0.0.1:5000/)
+
+  # My Project
+
+![Project Screenshot](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Screenshot%202024-10-18%20133007.png)
+
 
 ### Overview
 The Traffic Sign Board Recognition and Voice Alert System is designed to improve road safety. It recognizes traffic signs in real-time and gives audio alerts to drivers. By using computer vision and machine learning, the system helps drivers stay informed about important signs while driving.
@@ -39,12 +47,6 @@ The Traffic Sign Board Recognition and Voice Alert System is designed to improve
 5. *User Interface (Optional)*:
    - Displays recognized signs and alerts, along with system status (e.g., "Listening for signs...").
   
-## Live Website 
-- **Live Website Link:**[Traffic-sign](http://127.0.0.1:5000/)
-
-  # My Project
-
-![Project Screenshot](https://github.com/InduGolluri/Traffic-Sign-Board-Recognition-and-Voice-Alert-System/blob/main/Model/Screenshot%202024-10-18%20133007.png)
 
 
 ### Features of the Project
